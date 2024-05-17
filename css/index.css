@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: beige;
+}
+
+.section_inicio{
+    width: 100%;
+    height: 30vh;
+    border: 2px;
+    color: black;
+}
+
+.section_sobre-mim{
+    width: 100%;
+    height: 30vh;
+    border: 2px;
+    color: black;
+}
+
+.section_projetos{
+    width: 100%;
+    height: 30vh;
+    border: 2px;
+    color: black;
+}
+
+.section_contato{
+    width: 100%;
+    height: 30vh;
+    border: 2px;
+    color: black;
+}
+
